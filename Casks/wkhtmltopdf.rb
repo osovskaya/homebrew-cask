@@ -1,5 +1,5 @@
 cask 'wkhtmltopdf' do
-  version '0.12.4'
+  version '0.12.1'
   sha256 '402209589279e092c94d17c76e6fdda6be5cadb21ce12e7c093c41f82b757506'
 
   # download.gna.org/wkhtmltopdf was verified as official when first introduced to the cask
